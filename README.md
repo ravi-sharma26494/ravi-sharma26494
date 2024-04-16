@@ -1,4 +1,5 @@
 ![MasterHead](https://media.licdn.com/dms/image/C4E16AQFchfhnNswU8Q/profile-displaybackgroundimage-shrink_350_1400/0/1517573229134?e=1676505600&v=beta&t=8xh_CYzjnc0zXVHN3Wxw8SkVIbOXeZI8wq6x8eiLIdM)
+
 <h1 align="center">Hi 👋, I'm Ravi Sharma</h1>
 <h3 align="center">A passionate Full Stack Developer..</h3>
 <img align="right" alt="coding" width="400" src="https://st.depositphotos.com/1037238/4364/v/950/depositphotos_43641985-stock-illustration-computer-programmer-working-on-his.jpg"/>
